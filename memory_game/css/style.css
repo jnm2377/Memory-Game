@@ -1,0 +1,128 @@
+body {
+	text-align: center;
+	margin: 0;	
+}
+
+h1 {
+	font-family:Raleway, sans-serif;
+	text-transform: uppercase;
+	font-weight: 400;
+	letter-spacing: 5px;
+	font-size: 40px;
+	margin: 0;
+}
+
+#subhead {
+	font-family: Raleway, sans-serif;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: 300;
+    margin: 0;
+    padding: 10px 0 0 0;
+}
+
+header {
+	background-color: #F15B31;
+	color: #FFFFFF;
+	font-size: 30px;
+	padding: 20px;
+}
+
+.nav {
+	font-family: Raleway, sans-serif;
+	text-transform: uppercase;
+	font-weight: 300;
+	color: #FFFFFF;
+	text-decoration: none;
+	margin: 0 20px;
+	font-size: 15px; 
+}
+
+nav {
+	background-color: #00A6B3;
+	font-color: #FFFFFF;
+	padding: 20px 0;
+	border-bottom: 2px solid transparent;
+}
+
+.nav:hover {
+	border-bottom: 2px solid white;
+}
+
+#instruct {
+	font-family: Raleway, sans-serif;
+	font-weight: 500;
+	font-size: 15px;
+	text-transform: uppercase;
+	color: rgba(32,14,56,1);
+	letter-spacing: 2px;
+}
+
+p {
+	font-family: Raleway, sans-serif;
+	font-size: 15px;
+	font-weight: 200;
+	color: rbga (0,0,0,1);
+}
+
+main {
+	width: 850px;
+	margin: 35px auto;
+}
+
+img {
+	margin: 40px 8px;
+}
+
+
+footer{
+	text-transform: uppercase;
+	padding: 0 20px;
+	background: #0D2C40;
+	color: white;
+	font-size: 14px;
+	letter-spacing: .08em;
+	font-weight: 500;
+	margin: 0;
+}
+
+.connect {
+	font-family: Raleway, sans-serif;
+	color: #F15B31;
+	font-style: italic;
+	padding-top: 30px;
+	font-weight: 500;
+}
+
+#Twitter {
+    font-family: Raleway, sans-serif;
+    color: #0D2C40;
+	font-weight: 500;
+	font-style: italic;
+	text-decoration: none;
+}
+
+.copyright {
+	font-family: Raleway, sans-serif;
+	float: left;
+}
+
+.message {
+	font-family: Raleway, sans-serif;
+	float: right;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+
+.name {
+	color: #F15B31;
+	font-weight: 700;
+}
+
